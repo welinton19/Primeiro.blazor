@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ALVq8dR6+o6N/xJeofO2nGVBN3MIIp4nPXerzr4lcSMzCgEDT4qMSVSNbxf5esRRBR9EZKbrt54oTlzPIA5qw==",
+  "success": true,
+  "projectFilePath": "D:\\Primeiro.blazor\\Primeiro.blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\welin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\welin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\welin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\welin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
