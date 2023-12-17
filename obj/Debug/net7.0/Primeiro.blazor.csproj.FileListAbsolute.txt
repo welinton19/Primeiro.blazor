@@ -29,3 +29,4 @@ D:\Primeiro.blazor\obj\Debug\net7.0\refint\Primeiro.blazor.dll
 D:\Primeiro.blazor\obj\Debug\net7.0\Primeiro.blazor.pdb
 D:\Primeiro.blazor\obj\Debug\net7.0\Primeiro.blazor.genruntimeconfig.cache
 D:\Primeiro.blazor\obj\Debug\net7.0\ref\Primeiro.blazor.dll
+D:\Primeiro.blazor\obj\Debug\net7.0\Primeiro.blazor.sourcelink.json
